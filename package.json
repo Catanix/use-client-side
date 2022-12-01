@@ -1,7 +1,7 @@
 {
   "name": "useclientside",
-  "version": "1.0.1",
-  "description": "allow to use scripts on client side with SSR on quasar",
+  "version": "1.0.3",
+  "description": "allow to use scripts on client side with SSR on vue SSR frameworks",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

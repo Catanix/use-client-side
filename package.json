@@ -1,10 +1,10 @@
 {
   "name": "useclientside",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "allow to use scripts on client side with SSR on vue SSR frameworks",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "publish": "npm publish --access=public"
   },
   "repository": {
     "type": "git",

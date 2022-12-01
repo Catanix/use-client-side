@@ -1,7 +1,7 @@
 # useClientSide
 
 - useClientSide - is a small and simple function, that allows you to run your scripts on the client side. It may be useful when you need to execute script using SSR framework, such as Nuxt js, Quasar framework and etc.
-- This wrapper function is needed in order for the execution to be explicit for other devs and simple.
+- This wrapper function is needed in order for the execution to be very simple and explicit for other devs.
 - tested on Quasar + Vue 3.0  &&  nuxt js
 
 ### Installation

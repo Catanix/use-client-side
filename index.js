@@ -1,6 +1,6 @@
 const isItFunction = (obj) => { return typeof obj === 'function' }
 
-export const useClientStide = (callback) => {
+export const useClientSide = (callback) => {
     if (isItFunction(callback)) {
         if (typeof process === 'undefined') {
             callback();

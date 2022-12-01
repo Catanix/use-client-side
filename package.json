@@ -1,6 +1,6 @@
 {
   "name": "useclientside",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "allow to use scripts on client side with SSR on quasar",
   "main": "index.js",
   "scripts": {

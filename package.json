@@ -12,9 +12,9 @@
   },
   "keywords": [
     "quasar",
-    "use",
-    "client",
-    "side",
+    "client side script",
+    "use script on client SSR",
+    "use script on client side SSR",
     "script",
     "useClientSide",
     "SSR",

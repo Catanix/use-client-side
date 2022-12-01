@@ -1,6 +1,6 @@
 {
   "name": "useclientside",
-  "version": "1.0.7",
+  "version": "1.1.0",
   "description": "allow to use scripts on client side with SSR on vue SSR frameworks",
   "main": "index.js",
   "scripts": {

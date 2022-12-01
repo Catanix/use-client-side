@@ -1,0 +1,32 @@
+{
+  "name": "useclientside",
+  "version": "1.0.0",
+  "description": "allow to use scripts on client side with SSR on quasar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Catanix/quasar-use-client-side.git"
+  },
+  "keywords": [
+    "quasar",
+    "use",
+    "client",
+    "side",
+    "script",
+    "useClientSide",
+    "SSR",
+    "nuxt",
+    "next",
+    "vue",
+    "js"
+  ],
+  "author": "Catanix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Catanix/quasar-use-client-side/issues"
+  },
+  "homepage": "https://github.com/Catanix/quasar-use-client-side#readme"
+}

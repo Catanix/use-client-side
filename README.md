@@ -1,16 +1,16 @@
 ## useClientSide - small and simple function, that allows you to run your scripts on the client side when using SSR mode on quasar framework
-##
-##
+
+
 ### Installation
-##
+
 ```sh
-npm install useClientSide -S
+npm i useclientside -S
 ```
 
 ### Usage
-##
+
 ```sh
-import { useClientSide  } from '';
+import { useClientSide  } from 'useclientside';
 
 const scriptToExecute = () => {
     console.log('executed on client side!');
